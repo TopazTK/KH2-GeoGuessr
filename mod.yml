@@ -1,0 +1,11 @@
+title: Kingdom Hearts II - GeoGuessr
+originalAuthor: TopazTK
+description: GeoGessr, but in Kingdom Hearts! Find the locations, win the prizes!
+assets:
+
+# === System Files === #
+
+- name: dll/KH2-GeoGuessr.dll
+  method: copy
+  source:
+  - name: dll/KH2-GeoGuessr.dll
